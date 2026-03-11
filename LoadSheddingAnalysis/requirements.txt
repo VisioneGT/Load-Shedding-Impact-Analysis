@@ -1,0 +1,7 @@
+pandas
+plotly
+dash
+scikit-learn
+jupyter
+nbformat
+openpyxl
